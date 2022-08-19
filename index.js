@@ -42,4 +42,4 @@ function removeLastCat(){
     cat = cats.concat(cat);
     cat.pop()
    return cat
-}
+}  
